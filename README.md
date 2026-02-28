@@ -1,6 +1,6 @@
 # darks0l
 
-![DARKSOL](./assets/darksol-logo.svg)
+![DARKSOL](./assets/darksol-logo.png)
 Built by DARKSOL 🌑
 
 Public profile and project index for Darksol / MetaCaptain.
@@ -51,3 +51,4 @@ Not applicable (documentation/profile repository).
 - License: MIT
 - Changelog: `CHANGELOG.md`
 - GitHub profile repo: <https://github.com/darks0l/darks0l>
+
