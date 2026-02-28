@@ -1,4 +1,8 @@
 # darks0l
+
+![DARKSOL](./assets/darksol-logo.svg)
+Built by DARKSOL 🌑
+
 Public profile and project index for Darksol / MetaCaptain.
 
 ![profile](https://img.shields.io/badge/status-active-6f42c1)
